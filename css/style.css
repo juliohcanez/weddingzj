@@ -1849,4 +1849,18 @@ form label {
     font-family: "Sacramento", Arial, serif;
 }
 
+.guest{
+  height: 320px !important;
+}
 /*# sourceMappingURL=style.css.map */
+.left_vid {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 90%;
+    height:auto;
+ }
+
+.bw{
+  filter: grayscale(100%);
+}
